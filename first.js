@@ -5,3 +5,4 @@ const address = "CL Sharma Building"
 const dist = "Munger"
 const head  = document.querySelector("#heading")
 head.innerText='Learing Git and GitHub';
+const a = 7;
